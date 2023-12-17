@@ -1,10 +1,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2023 - To: 16 December 2023
-
-Total Time: 13 mins
-
 Java   13 mins         █████████████████████████   100.00 %
 ```
 
