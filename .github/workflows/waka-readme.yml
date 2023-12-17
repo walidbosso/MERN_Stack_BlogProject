@@ -31,5 +31,5 @@ jobs:
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML HTML# optional
           ### commit
-          TARGET_PATH: waka.md # optional
+          TARGET_PATH: waka-languages.md # optional
           AUTHOR_NAME: Walid BOUSSOU # optional
